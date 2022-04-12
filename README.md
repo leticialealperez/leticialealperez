@@ -19,10 +19,8 @@
   
 <div> 
   <a href="" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/ricardo.montoya_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.twitch.tv/montoyagod" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank">   </a> 
-  <a href = "mailto:ricardomontoya2002@hotmail.com"><img src="https://img.shields.io/badge/-outlook-%23333?style=for-the-badge&logo=microsoft&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/ricardo-montoya-3653a3174" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href = "mailto:leticialealp@hotmail.com"><img src="https://img.shields.io/badge/-outlook-%23333?style=for-the-badge&logo=microsoft&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/leticialealp" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
   ![Snake animation](https://github.com/leticialealperez/leticialealperez/blob/output/github-contribution-grid-snake.svg)
 </div>
