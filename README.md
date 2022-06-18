@@ -5,7 +5,7 @@
 - 🔭 Hobbies: Codar o dia todo e assisto séries criminais
 - 👨‍🎓 Formação: Participante da 5º Edição do Programa Starter Full Stack Web Developer na Growdev e Estudante de Analise e Desenvolvimento de Sistemas na Uniftec
 - 👨‍💻 Experiências Profissionais: Trabalhei no setor comercial por 3 anos com atendimento ao público. Tenho experiência com gestão de redes sociais e atualmente trabalho como Analista de Sistemas e Tech Helper na Growdev
-- 🚀 Tecnologias favoritas: HTML, CSS e Javascript
+- 🚀 Tecnologias favoritas: Typescript, NodeJS, ReactJS
 - 📚 O que está estudando atualmente: Desenvolvimento de Aplicações Web
 - 📫 Como me encontrar: <a href="https://www.linkedin.com/in/leticialealp/">LinkedIn</a> e <a href="mailto:leticialealp@hotmail.com" target="_blank"> E-mail </a>
 
